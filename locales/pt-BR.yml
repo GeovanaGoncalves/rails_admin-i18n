@@ -21,7 +21,7 @@ pt-BR:
     loading: "Carregando …"
     toggle_navigation: Alternar navegação
     home:
-      name: Página inicial
+      name: 
     pagination:
       previous: "&laquo; Anterior"
       next: Próximo &raquo;
