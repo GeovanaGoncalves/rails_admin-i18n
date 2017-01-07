@@ -64,8 +64,8 @@ pt-BR:
       message: Mensagem
     actions:
       dashboard:
-        title: Administração do site
-        menu: Dashboard
+        title: teste
+        menu: teste
         breadcrumb: Dashboard
       index:
         title: Lista de %{model_label_plural}
