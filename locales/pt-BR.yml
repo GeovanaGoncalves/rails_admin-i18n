@@ -64,24 +64,24 @@ pt-BR:
       message: Mensagem
     actions:
       dashboard:
-        title: teste
-        menu: teste
-        breadcrumb: Dashboard
+        title: BOPE GAME
+        menu: BOPE GAME
+        breadcrumb: BOPE GAME
       index:
         title: Lista de %{model_label_plural}
         menu: Listar
         breadcrumb: Lista de %{model_label_plural}
       show:
-        title: Mostra
+        title: Mostrar
         menu: Mostrar
         breadcrumb: Mostrar "%{object_label}"
       show_in_app:
         menu: Mostrar no app
       new:
-        title: Novo %{model_label}
-        menu: Adicionar novo
-        breadcrumb: Novo
-        link: Adicionar novo %{model_label}
+        title: Novo (a) %{model_label}
+        menu: Adicionar novo (a)
+        breadcrumb: Novo(a)
+        link: Adicionar novo(a) %{model_label}
         done: Adicionado
       edit:
         title: Editar %{model_label} '%{object_label}'
@@ -119,7 +119,7 @@ pt-BR:
       cancel: Cancelar
       basic_info: Informações básicas
       required: Necessário
-      optional: Opcional
+     
       one_char: caractere
       char_length_up_to: Comprimento até
       char_length_of: Comprimento
