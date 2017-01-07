@@ -119,7 +119,7 @@ en:
       cancel: "Cancel"
       basic_info: "Basic info"
       required: "Required"
-      optional: "Optional"
+    
       one_char: "character"
       char_length_up_to: "length up to"
       char_length_of: "length of"
