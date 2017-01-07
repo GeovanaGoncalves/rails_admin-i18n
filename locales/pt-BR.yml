@@ -119,7 +119,7 @@ pt-BR:
       cancel: Cancelar
       basic_info: Informações básicas
       required: Necessário
-     
+      optional: Obrigatório
       one_char: caractere
       char_length_up_to: Comprimento até
       char_length_of: Comprimento
