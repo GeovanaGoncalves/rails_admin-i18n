@@ -78,7 +78,7 @@ pt-BR:
       show_in_app:
         menu: Mostrar no app
       new:
-        title: Novo (a) %{model_label}
+        title: Adicionar %{model_label}
         menu: Adicionar novo (a)
         breadcrumb: Novo(a)
         link: Adicionar novo(a) %{model_label}
