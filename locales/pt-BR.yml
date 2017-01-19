@@ -63,9 +63,9 @@ pt-BR:
       item: Item
       message: Mensagem
     actions:
-      dashboard:
-        title: 
-        menu:
+      dashboard:Bope Game
+        title:Bope Game
+        menu:Bope Game
         breadcrumb: 
       index:
         title: Lista de %{model_label_plural}
