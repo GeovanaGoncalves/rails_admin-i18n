@@ -63,10 +63,10 @@ pt-BR:
       item: Item
       message: Mensagem
     actions:
-      dashboard: Bope Game
-        title: Bope Game
-        menu: Bope Game
-        breadcrumb: Bope Game 
+      dashboard: BopeGame
+        title: BopeGame
+        menu: BopeGame
+        breadcrumb: BopeGame 
       index:
         title: Lista de %{model_label_plural}
         menu: Listar
