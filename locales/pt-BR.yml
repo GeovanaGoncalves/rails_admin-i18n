@@ -64,9 +64,9 @@ pt-BR:
       message: Mensagem
     actions:
       dashboard:
-        title: BOPE GAME
-        menu: BOPE GAME
-        breadcrumb: BOPE GAME
+        title: 
+        menu:
+        breadcrumb: 
       index:
         title: Lista de %{model_label_plural}
         menu: Listar
