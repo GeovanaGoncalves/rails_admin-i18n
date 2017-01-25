@@ -63,7 +63,7 @@ pt-BR:
       item: Item
       message: Mensagem
     actions:
-      dashboa BOPEGAME
+        dashboard: BOPEGAME
         title: BEM 
         menu: VINDO
         breadcrumb: GEOVANA
