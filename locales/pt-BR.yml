@@ -63,10 +63,10 @@ pt-BR:
       item: Item
       message: Mensagem
     actions:
-      dashboard: BOPEGAME
-        title: 
-        menu: 
-        breadcrumb: 
+      dashboa BOPEGAME
+        title: BEM 
+        menu: VINDO
+        breadcrumb: GEOVANA
       index:
         title: Lista de %{model_label_plural}
         menu: Listar
