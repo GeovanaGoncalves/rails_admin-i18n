@@ -65,8 +65,8 @@ pt-BR:
     actions:
       dashboard:
         title: Administração do site
-        menu: Dashboard
-        breadcrumb: Dashboard
+        menu: BOPEGAME
+        breadcrumb: BEM VINDO AO BOPE
       index:
         title: Lista de %{model_label_plural}
         menu: Listar
