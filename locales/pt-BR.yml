@@ -63,7 +63,7 @@ pt-BR:
       item: Item
       message: Mensagem
     actions:
-      dashboard:BOPEGAME
+      dashboard: BOPEGAME
         title: 
         menu: 
         breadcrumb: 
