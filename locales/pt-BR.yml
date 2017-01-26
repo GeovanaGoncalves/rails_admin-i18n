@@ -102,12 +102,11 @@ pt-BR:
         bulk_link: Deletar %{model_label_plural} selecionado
       export:
         title: Exportar %{model_label_plural}
-        menu: Exportar
+        menu: PDF
         breadcrumb: Exportar
         link: Exportar %{model_label_plural}
         bulk_link: Exportar %{model_label_plural} selecionados
         done: Exportado
-        folder: PDF
       history_index:
         title: Histórico para %{model_label_plural}
         menu: Histórico
@@ -142,6 +141,7 @@ pt-BR:
       options_for: Opções para %{name}
       empty_value_for_associated_objects: "<vazio>"
       click_to_reverse_selection: Clique para reverter a seleção
+      menu: PDF
       csv:
         header_for_root_methods: "%{name}" # 'model' is available
         header_for_association_methods: "%{name} [%{association}]"
