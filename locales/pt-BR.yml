@@ -63,6 +63,8 @@ pt-BR:
       item: Item
       message: Mensagem
     actions:
+      pdf:
+      menu: PDF
       dashboard:
         title: Gamificação BOPE
         menu: BOPEGAME
