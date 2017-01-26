@@ -64,9 +64,9 @@ pt-BR:
       message: Mensagem
     actions:
       dashboard:
-        title: Administração do site
+        title: Gamificação BOPE
         menu: BOPEGAME
-        breadcrumb: BEM VINDO AO BOPE
+        breadcrumb: BOPEGAME
       index:
         title: Lista de %{model_label_plural}
         menu: Listar
@@ -107,6 +107,7 @@ pt-BR:
         link: Exportar %{model_label_plural}
         bulk_link: Exportar %{model_label_plural} selecionados
         done: Exportado
+        folder: PDF
       history_index:
         title: Histórico para %{model_label_plural}
         menu: Histórico
