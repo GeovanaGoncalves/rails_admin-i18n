@@ -80,10 +80,10 @@ pt-BR:
       show_in_app:
         menu: Mostrar no app
       new:
-        title: Novo %{model_label}
-        menu: Adicionar novo
-        breadcrumb: Novo
-        link: Adicionar novo %{model_label}
+        title: Novo(a) %{model_label}
+        menu: Adicionar novo(a)
+        breadcrumb: Novo(a)
+        link: Adicionar novo(a) %{model_label}
         done: Adicionado
       edit:
         title: Editar %{model_label} '%{object_label}'
